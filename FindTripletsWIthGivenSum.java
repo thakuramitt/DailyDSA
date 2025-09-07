@@ -2,6 +2,8 @@
 
 import java.util.Arrays;
 
+// Non Leetcode problem
+
 public class FindTripletsWIthGivenSum {
     public static int solve(int[] prices, int target) {
         int currSum = 0;
